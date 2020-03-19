@@ -1,8 +1,11 @@
 ﻿<Properties StartupConfiguration="{102AB283-FBD4-AA08-C353-1135C6AD4045}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Rotator.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Gun.cs">
     <Files>
       <File FileName="Assets/Scripts/CameraShake.cs" Line="31" Column="1" />
       <File FileName="Assets/Scripts/Rotator.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/PlayerController.cs" Line="24" Column="73" />
+      <File FileName="Assets/Scripts/CameraMovement.cs" Line="26" Column="10" />
+      <File FileName="Assets/Scripts/Gun.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -10,7 +13,7 @@
           <Node name="Bobblehead Wars" expanded="True">
             <Node name="Assets" expanded="True">
               <Node name="Scripts" expanded="True">
-                <Node name="Rotator.cs" selected="True" />
+                <Node name="Gun.cs" selected="True" />
               </Node>
             </Node>
           </Node>
@@ -20,7 +23,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="3cc7c7b7-bf3b-4405-9f5f-064685c9ef37" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="45b47a9d-de7c-4f51-8bbe-b01e3be366cd" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
